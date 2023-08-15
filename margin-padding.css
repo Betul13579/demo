@@ -10,4 +10,18 @@ body {
     width: 200px;
     height: 200px;
     background-color: blueviolet;
+    border: 5px solid black;
+    padding: 30px;
+}
+
+#div2{
+    width: 300px;
+    height: 200px;
+    background-color: orange;
+}
+
+#div3{
+    width: 400px;
+    height: 200px;
+    background-color: green;
 }
